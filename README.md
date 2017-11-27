@@ -11,8 +11,3 @@ index.html
 	</body>
 </html>
 
-stylesheet.css
-p {
-	font-size: 44px;
-}
-Sign up for free
